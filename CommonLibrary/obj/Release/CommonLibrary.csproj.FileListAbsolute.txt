@@ -1,0 +1,4 @@
+C:\Users\n-yuasa\Documents\Visual Studio 2015\Projects\LightDriverTest\CommonLibrary\bin\Release\CommonLibrary.dll
+C:\Users\n-yuasa\Documents\Visual Studio 2015\Projects\LightDriverTest\CommonLibrary\bin\Release\CommonLibrary.pdb
+C:\Users\n-yuasa\Documents\Visual Studio 2015\Projects\LightDriverTest\CommonLibrary\obj\Release\CommonLibrary.dll
+C:\Users\n-yuasa\Documents\Visual Studio 2015\Projects\LightDriverTest\CommonLibrary\obj\Release\CommonLibrary.pdb

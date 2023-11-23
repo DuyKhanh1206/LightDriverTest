@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LightDriverManagerSetting xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <LightDriverManagerSettingSingle>
+    <LightClass>IWDV-600</LightClass>
+    <LightClassSettingPath>Light1.xml</LightClassSettingPath>
+  </LightDriverManagerSettingSingle>
+  <LightDriverManagerSettingSingle>
+    <LightClass>IWDV-600</LightClass>
+    <LightClassSettingPath>Light2.xml</LightClassSettingPath>
+  </LightDriverManagerSettingSingle>
+</LightDriverManagerSetting>

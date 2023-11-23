@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LightDriverManagerSetting>
+  <LightClassSettings>
+    <LightDriverManagerSettingSingle>
+      <LightClass>IWDV_600M2_24</LightClass>
+      <LightClassSettingPath>Light1.xml</LightClassSettingPath>
+    </LightDriverManagerSettingSingle>
+    <LightDriverManagerSettingSingle>
+      <LightClass>IWDV_600M2_24</LightClass>
+      <LightClassSettingPath>Light2.xml</LightClassSettingPath>
+    </LightDriverManagerSettingSingle>
+  </LightClassSettings>
+</LightDriverManagerSetting>

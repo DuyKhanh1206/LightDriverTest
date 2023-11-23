@@ -1,0 +1,23 @@
+C:\Users\n-yuasa\Documents\Visual Studio 2015\Projects\LightDriverTest\DriverLibrary\obj\Debug\DriverLibrary.csprojResolveAssemblyReference.cache
+C:\Users\n-yuasa\Documents\Visual Studio 2015\Projects\LightDriverTest\DriverLibrary\bin\Debug\DriverLibrary.dll
+C:\Users\n-yuasa\Documents\Visual Studio 2015\Projects\LightDriverTest\DriverLibrary\bin\Debug\DriverLibrary.pdb
+C:\Users\n-yuasa\Documents\Visual Studio 2015\Projects\LightDriverTest\DriverLibrary\bin\Debug\CommonLibrary.dll
+C:\Users\n-yuasa\Documents\Visual Studio 2015\Projects\LightDriverTest\DriverLibrary\bin\Debug\CommonLibrary.pdb
+C:\Users\n-yuasa\Documents\Visual Studio 2015\Projects\LightDriverTest\DriverLibrary\obj\Debug\DriverLibrary.dll
+C:\Users\n-yuasa\Documents\Visual Studio 2015\Projects\LightDriverTest\DriverLibrary\obj\Debug\DriverLibrary.pdb
+C:\Development\LightDriverTest\DriverLibrary\bin\Debug\DriverLibrary.dll
+C:\Development\LightDriverTest\DriverLibrary\bin\Debug\DriverLibrary.pdb
+C:\Development\LightDriverTest\DriverLibrary\bin\Debug\CommonLibrary.dll
+C:\Development\LightDriverTest\DriverLibrary\bin\Debug\CommonLibrary.pdb
+C:\Development\LightDriverTest\DriverLibrary\obj\Debug\DriverLibrary.csproj.AssemblyReference.cache
+C:\Development\LightDriverTest\DriverLibrary\obj\Debug\DriverLibrary.csproj.CoreCompileInputs.cache
+C:\Development\LightDriverTest\DriverLibrary\obj\Debug\DriverLibrary.csproj.CopyComplete
+C:\Development\LightDriverTest\DriverLibrary\obj\Debug\DriverLibrary.dll
+C:\Development\LightDriverTest\DriverLibrary\obj\Debug\DriverLibrary.pdb
+C:\Users\k-nguyen\Documents\Visual Studio 2015\Projects\yuasa_sample\DriverLibrary\bin\Debug\DriverLibrary.dll
+C:\Users\k-nguyen\Documents\Visual Studio 2015\Projects\yuasa_sample\DriverLibrary\bin\Debug\DriverLibrary.pdb
+C:\Users\k-nguyen\Documents\Visual Studio 2015\Projects\yuasa_sample\DriverLibrary\bin\Debug\CommonLibrary.dll
+C:\Users\k-nguyen\Documents\Visual Studio 2015\Projects\yuasa_sample\DriverLibrary\bin\Debug\CommonLibrary.pdb
+C:\Users\k-nguyen\Documents\Visual Studio 2015\Projects\yuasa_sample\DriverLibrary\obj\Debug\DriverLibrary.csprojResolveAssemblyReference.cache
+C:\Users\k-nguyen\Documents\Visual Studio 2015\Projects\yuasa_sample\DriverLibrary\obj\Debug\DriverLibrary.dll
+C:\Users\k-nguyen\Documents\Visual Studio 2015\Projects\yuasa_sample\DriverLibrary\obj\Debug\DriverLibrary.pdb

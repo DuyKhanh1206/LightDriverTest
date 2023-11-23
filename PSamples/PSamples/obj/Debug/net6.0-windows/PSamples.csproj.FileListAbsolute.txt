@@ -1,0 +1,99 @@
+C:\Development\Udemy\WPF_Prism\PSamples\PSamples\bin\Debug\net6.0-windows\PSamples.exe
+C:\Development\Udemy\WPF_Prism\PSamples\PSamples\bin\Debug\net6.0-windows\PSamples.deps.json
+C:\Development\Udemy\WPF_Prism\PSamples\PSamples\bin\Debug\net6.0-windows\PSamples.runtimeconfig.json
+C:\Development\Udemy\WPF_Prism\PSamples\PSamples\bin\Debug\net6.0-windows\PSamples.dll
+C:\Development\Udemy\WPF_Prism\PSamples\PSamples\bin\Debug\net6.0-windows\PSamples.pdb
+C:\Development\Udemy\WPF_Prism\PSamples\PSamples\bin\Debug\net6.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Development\Udemy\WPF_Prism\PSamples\PSamples\bin\Debug\net6.0-windows\Prism.dll
+C:\Development\Udemy\WPF_Prism\PSamples\PSamples\bin\Debug\net6.0-windows\Prism.Unity.Wpf.dll
+C:\Development\Udemy\WPF_Prism\PSamples\PSamples\bin\Debug\net6.0-windows\Prism.Wpf.dll
+C:\Development\Udemy\WPF_Prism\PSamples\PSamples\bin\Debug\net6.0-windows\Unity.Abstractions.dll
+C:\Development\Udemy\WPF_Prism\PSamples\PSamples\bin\Debug\net6.0-windows\Unity.Container.dll
+C:\Development\Udemy\WPF_Prism\PSamples\PSamples\obj\Debug\net6.0-windows\PSamples.csproj.AssemblyReference.cache
+C:\Development\Udemy\WPF_Prism\PSamples\PSamples\obj\Debug\net6.0-windows\Views\MainWindow.baml
+C:\Development\Udemy\WPF_Prism\PSamples\PSamples\obj\Debug\net6.0-windows\Views\MainWindow.g.cs
+C:\Development\Udemy\WPF_Prism\PSamples\PSamples\obj\Debug\net6.0-windows\App.g.cs
+C:\Development\Udemy\WPF_Prism\PSamples\PSamples\obj\Debug\net6.0-windows\PSamples_MarkupCompile.cache
+C:\Development\Udemy\WPF_Prism\PSamples\PSamples\obj\Debug\net6.0-windows\PSamples.g.resources
+C:\Development\Udemy\WPF_Prism\PSamples\PSamples\obj\Debug\net6.0-windows\PSamples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\Udemy\WPF_Prism\PSamples\PSamples\obj\Debug\net6.0-windows\PSamples.AssemblyInfoInputs.cache
+C:\Development\Udemy\WPF_Prism\PSamples\PSamples\obj\Debug\net6.0-windows\PSamples.AssemblyInfo.cs
+C:\Development\Udemy\WPF_Prism\PSamples\PSamples\obj\Debug\net6.0-windows\PSamples.csproj.CoreCompileInputs.cache
+C:\Development\Udemy\WPF_Prism\PSamples\PSamples\obj\Debug\net6.0-windows\PSamples.csproj.CopyComplete
+C:\Development\Udemy\WPF_Prism\PSamples\PSamples\obj\Debug\net6.0-windows\PSamples.dll
+C:\Development\Udemy\WPF_Prism\PSamples\PSamples\obj\Debug\net6.0-windows\refint\PSamples.dll
+C:\Development\Udemy\WPF_Prism\PSamples\PSamples\obj\Debug\net6.0-windows\PSamples.pdb
+C:\Development\Udemy\WPF_Prism\PSamples\PSamples\obj\Debug\net6.0-windows\PSamples.genruntimeconfig.cache
+C:\Development\Udemy\WPF_Prism\PSamples\PSamples\obj\Debug\net6.0-windows\ref\PSamples.dll
+C:\Development\Udemy\WPF_Prism\PSamples\PSamples\obj\Debug\net6.0-windows\Views\ViewA.baml
+C:\Development\Udemy\WPF_Prism\PSamples\PSamples\obj\Debug\net6.0-windows\Views\ViewA.g.cs
+C:\Development\Udemy\WPF_Prism\PSamples\PSamples\obj\Debug\net6.0-windows\Views\ViewB.baml
+C:\Development\Udemy\WPF_Prism\PSamples\PSamples\obj\Debug\net6.0-windows\Views\ViewB.g.cs
+C:\Development\Udemy\WPF_Prism\PSamples\PSamples\obj\Debug\net6.0-windows\Views\ViewC.baml
+C:\Development\Udemy\WPF_Prism\PSamples\PSamples\obj\Debug\net6.0-windows\Views\ViewC.g.cs
+S:\装置開発部\■共有\91_個人\湯浅\900_勉強結果\99_WPF_sample\WPF_Prism\PSamples\PSamples\bin\Debug\net6.0-windows\PSamples.exe
+S:\装置開発部\■共有\91_個人\湯浅\900_勉強結果\99_WPF_sample\WPF_Prism\PSamples\PSamples\bin\Debug\net6.0-windows\PSamples.deps.json
+S:\装置開発部\■共有\91_個人\湯浅\900_勉強結果\99_WPF_sample\WPF_Prism\PSamples\PSamples\bin\Debug\net6.0-windows\PSamples.runtimeconfig.json
+S:\装置開発部\■共有\91_個人\湯浅\900_勉強結果\99_WPF_sample\WPF_Prism\PSamples\PSamples\bin\Debug\net6.0-windows\PSamples.dll
+S:\装置開発部\■共有\91_個人\湯浅\900_勉強結果\99_WPF_sample\WPF_Prism\PSamples\PSamples\bin\Debug\net6.0-windows\PSamples.pdb
+S:\装置開発部\■共有\91_個人\湯浅\900_勉強結果\99_WPF_sample\WPF_Prism\PSamples\PSamples\bin\Debug\net6.0-windows\Microsoft.Xaml.Behaviors.dll
+S:\装置開発部\■共有\91_個人\湯浅\900_勉強結果\99_WPF_sample\WPF_Prism\PSamples\PSamples\bin\Debug\net6.0-windows\Prism.dll
+S:\装置開発部\■共有\91_個人\湯浅\900_勉強結果\99_WPF_sample\WPF_Prism\PSamples\PSamples\bin\Debug\net6.0-windows\Prism.Unity.Wpf.dll
+S:\装置開発部\■共有\91_個人\湯浅\900_勉強結果\99_WPF_sample\WPF_Prism\PSamples\PSamples\bin\Debug\net6.0-windows\Prism.Wpf.dll
+S:\装置開発部\■共有\91_個人\湯浅\900_勉強結果\99_WPF_sample\WPF_Prism\PSamples\PSamples\bin\Debug\net6.0-windows\Unity.Abstractions.dll
+S:\装置開発部\■共有\91_個人\湯浅\900_勉強結果\99_WPF_sample\WPF_Prism\PSamples\PSamples\bin\Debug\net6.0-windows\Unity.Container.dll
+S:\装置開発部\■共有\91_個人\湯浅\900_勉強結果\99_WPF_sample\WPF_Prism\PSamples\PSamples\obj\Debug\net6.0-windows\PSamples.csproj.AssemblyReference.cache
+S:\装置開発部\■共有\91_個人\湯浅\900_勉強結果\99_WPF_sample\WPF_Prism\PSamples\PSamples\obj\Debug\net6.0-windows\Views\MainWindow.baml
+S:\装置開発部\■共有\91_個人\湯浅\900_勉強結果\99_WPF_sample\WPF_Prism\PSamples\PSamples\obj\Debug\net6.0-windows\Views\ViewA.baml
+S:\装置開発部\■共有\91_個人\湯浅\900_勉強結果\99_WPF_sample\WPF_Prism\PSamples\PSamples\obj\Debug\net6.0-windows\Views\ViewB.baml
+S:\装置開発部\■共有\91_個人\湯浅\900_勉強結果\99_WPF_sample\WPF_Prism\PSamples\PSamples\obj\Debug\net6.0-windows\Views\ViewC.baml
+S:\装置開発部\■共有\91_個人\湯浅\900_勉強結果\99_WPF_sample\WPF_Prism\PSamples\PSamples\obj\Debug\net6.0-windows\Views\MainWindow.g.cs
+S:\装置開発部\■共有\91_個人\湯浅\900_勉強結果\99_WPF_sample\WPF_Prism\PSamples\PSamples\obj\Debug\net6.0-windows\Views\ViewA.g.cs
+S:\装置開発部\■共有\91_個人\湯浅\900_勉強結果\99_WPF_sample\WPF_Prism\PSamples\PSamples\obj\Debug\net6.0-windows\Views\ViewB.g.cs
+S:\装置開発部\■共有\91_個人\湯浅\900_勉強結果\99_WPF_sample\WPF_Prism\PSamples\PSamples\obj\Debug\net6.0-windows\Views\ViewC.g.cs
+S:\装置開発部\■共有\91_個人\湯浅\900_勉強結果\99_WPF_sample\WPF_Prism\PSamples\PSamples\obj\Debug\net6.0-windows\App.g.cs
+S:\装置開発部\■共有\91_個人\湯浅\900_勉強結果\99_WPF_sample\WPF_Prism\PSamples\PSamples\obj\Debug\net6.0-windows\PSamples_MarkupCompile.cache
+S:\装置開発部\■共有\91_個人\湯浅\900_勉強結果\99_WPF_sample\WPF_Prism\PSamples\PSamples\obj\Debug\net6.0-windows\PSamples.g.resources
+S:\装置開発部\■共有\91_個人\湯浅\900_勉強結果\99_WPF_sample\WPF_Prism\PSamples\PSamples\obj\Debug\net6.0-windows\PSamples.GeneratedMSBuildEditorConfig.editorconfig
+S:\装置開発部\■共有\91_個人\湯浅\900_勉強結果\99_WPF_sample\WPF_Prism\PSamples\PSamples\obj\Debug\net6.0-windows\PSamples.AssemblyInfoInputs.cache
+S:\装置開発部\■共有\91_個人\湯浅\900_勉強結果\99_WPF_sample\WPF_Prism\PSamples\PSamples\obj\Debug\net6.0-windows\PSamples.AssemblyInfo.cs
+S:\装置開発部\■共有\91_個人\湯浅\900_勉強結果\99_WPF_sample\WPF_Prism\PSamples\PSamples\obj\Debug\net6.0-windows\PSamples.csproj.CoreCompileInputs.cache
+S:\装置開発部\■共有\91_個人\湯浅\900_勉強結果\99_WPF_sample\WPF_Prism\PSamples\PSamples\obj\Debug\net6.0-windows\PSamples.csproj.CopyComplete
+S:\装置開発部\■共有\91_個人\湯浅\900_勉強結果\99_WPF_sample\WPF_Prism\PSamples\PSamples\obj\Debug\net6.0-windows\PSamples.dll
+S:\装置開発部\■共有\91_個人\湯浅\900_勉強結果\99_WPF_sample\WPF_Prism\PSamples\PSamples\obj\Debug\net6.0-windows\refint\PSamples.dll
+S:\装置開発部\■共有\91_個人\湯浅\900_勉強結果\99_WPF_sample\WPF_Prism\PSamples\PSamples\obj\Debug\net6.0-windows\PSamples.pdb
+S:\装置開発部\■共有\91_個人\湯浅\900_勉強結果\99_WPF_sample\WPF_Prism\PSamples\PSamples\obj\Debug\net6.0-windows\PSamples.genruntimeconfig.cache
+S:\装置開発部\■共有\91_個人\湯浅\900_勉強結果\99_WPF_sample\WPF_Prism\PSamples\PSamples\obj\Debug\net6.0-windows\ref\PSamples.dll
+C:\Users\k-nguyen\Documents\Visual Studio 2015\Projects\yuasa_sample\PSamples\PSamples\bin\Debug\net6.0-windows\PSamples.exe
+C:\Users\k-nguyen\Documents\Visual Studio 2015\Projects\yuasa_sample\PSamples\PSamples\bin\Debug\net6.0-windows\PSamples.deps.json
+C:\Users\k-nguyen\Documents\Visual Studio 2015\Projects\yuasa_sample\PSamples\PSamples\bin\Debug\net6.0-windows\PSamples.runtimeconfig.json
+C:\Users\k-nguyen\Documents\Visual Studio 2015\Projects\yuasa_sample\PSamples\PSamples\bin\Debug\net6.0-windows\PSamples.dll
+C:\Users\k-nguyen\Documents\Visual Studio 2015\Projects\yuasa_sample\PSamples\PSamples\bin\Debug\net6.0-windows\PSamples.pdb
+C:\Users\k-nguyen\Documents\Visual Studio 2015\Projects\yuasa_sample\PSamples\PSamples\bin\Debug\net6.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\k-nguyen\Documents\Visual Studio 2015\Projects\yuasa_sample\PSamples\PSamples\bin\Debug\net6.0-windows\Prism.dll
+C:\Users\k-nguyen\Documents\Visual Studio 2015\Projects\yuasa_sample\PSamples\PSamples\bin\Debug\net6.0-windows\Prism.Unity.Wpf.dll
+C:\Users\k-nguyen\Documents\Visual Studio 2015\Projects\yuasa_sample\PSamples\PSamples\bin\Debug\net6.0-windows\Prism.Wpf.dll
+C:\Users\k-nguyen\Documents\Visual Studio 2015\Projects\yuasa_sample\PSamples\PSamples\bin\Debug\net6.0-windows\Unity.Abstractions.dll
+C:\Users\k-nguyen\Documents\Visual Studio 2015\Projects\yuasa_sample\PSamples\PSamples\bin\Debug\net6.0-windows\Unity.Container.dll
+C:\Users\k-nguyen\Documents\Visual Studio 2015\Projects\yuasa_sample\PSamples\PSamples\obj\Debug\net6.0-windows\PSamples.csproj.AssemblyReference.cache
+C:\Users\k-nguyen\Documents\Visual Studio 2015\Projects\yuasa_sample\PSamples\PSamples\obj\Debug\net6.0-windows\Views\MainWindow.baml
+C:\Users\k-nguyen\Documents\Visual Studio 2015\Projects\yuasa_sample\PSamples\PSamples\obj\Debug\net6.0-windows\Views\ViewA.baml
+C:\Users\k-nguyen\Documents\Visual Studio 2015\Projects\yuasa_sample\PSamples\PSamples\obj\Debug\net6.0-windows\Views\ViewB.baml
+C:\Users\k-nguyen\Documents\Visual Studio 2015\Projects\yuasa_sample\PSamples\PSamples\obj\Debug\net6.0-windows\Views\ViewC.baml
+C:\Users\k-nguyen\Documents\Visual Studio 2015\Projects\yuasa_sample\PSamples\PSamples\obj\Debug\net6.0-windows\Views\MainWindow.g.cs
+C:\Users\k-nguyen\Documents\Visual Studio 2015\Projects\yuasa_sample\PSamples\PSamples\obj\Debug\net6.0-windows\Views\ViewA.g.cs
+C:\Users\k-nguyen\Documents\Visual Studio 2015\Projects\yuasa_sample\PSamples\PSamples\obj\Debug\net6.0-windows\Views\ViewB.g.cs
+C:\Users\k-nguyen\Documents\Visual Studio 2015\Projects\yuasa_sample\PSamples\PSamples\obj\Debug\net6.0-windows\Views\ViewC.g.cs
+C:\Users\k-nguyen\Documents\Visual Studio 2015\Projects\yuasa_sample\PSamples\PSamples\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\k-nguyen\Documents\Visual Studio 2015\Projects\yuasa_sample\PSamples\PSamples\obj\Debug\net6.0-windows\PSamples_MarkupCompile.cache
+C:\Users\k-nguyen\Documents\Visual Studio 2015\Projects\yuasa_sample\PSamples\PSamples\obj\Debug\net6.0-windows\PSamples.g.resources
+C:\Users\k-nguyen\Documents\Visual Studio 2015\Projects\yuasa_sample\PSamples\PSamples\obj\Debug\net6.0-windows\PSamples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\k-nguyen\Documents\Visual Studio 2015\Projects\yuasa_sample\PSamples\PSamples\obj\Debug\net6.0-windows\PSamples.AssemblyInfoInputs.cache
+C:\Users\k-nguyen\Documents\Visual Studio 2015\Projects\yuasa_sample\PSamples\PSamples\obj\Debug\net6.0-windows\PSamples.AssemblyInfo.cs
+C:\Users\k-nguyen\Documents\Visual Studio 2015\Projects\yuasa_sample\PSamples\PSamples\obj\Debug\net6.0-windows\PSamples.csproj.CoreCompileInputs.cache
+C:\Users\k-nguyen\Documents\Visual Studio 2015\Projects\yuasa_sample\PSamples\PSamples\obj\Debug\net6.0-windows\PSamples.csproj.CopyComplete
+C:\Users\k-nguyen\Documents\Visual Studio 2015\Projects\yuasa_sample\PSamples\PSamples\obj\Debug\net6.0-windows\PSamples.dll
+C:\Users\k-nguyen\Documents\Visual Studio 2015\Projects\yuasa_sample\PSamples\PSamples\obj\Debug\net6.0-windows\refint\PSamples.dll
+C:\Users\k-nguyen\Documents\Visual Studio 2015\Projects\yuasa_sample\PSamples\PSamples\obj\Debug\net6.0-windows\PSamples.pdb
+C:\Users\k-nguyen\Documents\Visual Studio 2015\Projects\yuasa_sample\PSamples\PSamples\obj\Debug\net6.0-windows\PSamples.genruntimeconfig.cache
+C:\Users\k-nguyen\Documents\Visual Studio 2015\Projects\yuasa_sample\PSamples\PSamples\obj\Debug\net6.0-windows\ref\PSamples.dll

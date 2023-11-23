@@ -1,0 +1,30 @@
+﻿<Window x:Class="PSamples.Views.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:prism="http://prismlibrary.com/"
+        prism:ViewModelLocator.AutoWireViewModel="True"
+        Title="{Binding Title}" Height="500" Width="525" WindowStartupLocation="CenterScreen">
+
+    <Window.Resources>
+        <BooleanToVisibilityConverter x:Key="BoolVisibilityConverter"/>
+        <!-- 表示非表示（Visibility）をViewModelのバインドではうまくいかないのでここような機能（Converter）が用意されている-->
+    </Window.Resources>
+    
+    
+    <Grid>
+        <StackPanel>
+            <Label Content="システム日時"/>
+            <Label Content="{Binding SystemDateLabel}"/>
+
+            <Button Content="システム日時更新" Command="{Binding SystemDateUpdateButton}"/> <!--Cập nhật ngày giờ hệ thống-->
+            <Button Content="Show view A" Command="{Binding ShowViewAButton}"/>
+            <Button Content="Show view A パラメータあり" Command="{Binding ShowViewPButton}"/>
+            <Button Content="Show view B" Command="{Binding ShowViewBButton}"/>
+            <Button Content="Show view C: ListBox ComboBox" Command="{Binding ShowViewCButton}"/>
+            <Button Content="VVVVVVV" Visibility="{Binding ButtonEnabled,
+                Converter={StaticResource BoolVisibilityConverter}}"/><!-- ここでコンバータを記載する。-->
+            <ContentControl prism:RegionManager.RegionName="ContentRegion" />
+        </StackPanel>
+
+    </Grid>
+</Window>

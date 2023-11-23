@@ -1,0 +1,11 @@
+C:\Users\n-yuasa\Documents\Visual Studio 2015\Projects\LightDriverTest\LightLibrary\bin\Release\LightLibrary.dll
+C:\Users\n-yuasa\Documents\Visual Studio 2015\Projects\LightDriverTest\LightLibrary\bin\Release\LightLibrary.pdb
+C:\Users\n-yuasa\Documents\Visual Studio 2015\Projects\LightDriverTest\LightLibrary\bin\Release\CommonLibrary.dll
+C:\Users\n-yuasa\Documents\Visual Studio 2015\Projects\LightDriverTest\LightLibrary\bin\Release\DriverLibrary.dll
+C:\Users\n-yuasa\Documents\Visual Studio 2015\Projects\LightDriverTest\LightLibrary\bin\Release\CommonLibrary.pdb
+C:\Users\n-yuasa\Documents\Visual Studio 2015\Projects\LightDriverTest\LightLibrary\bin\Release\DriverLibrary.pdb
+C:\Users\n-yuasa\Documents\Visual Studio 2015\Projects\LightDriverTest\LightLibrary\obj\Release\LightLibrary.csprojResolveAssemblyReference.cache
+C:\Users\n-yuasa\Documents\Visual Studio 2015\Projects\LightDriverTest\LightLibrary\obj\Release\LightLibrary.Properties.Resources.resources
+C:\Users\n-yuasa\Documents\Visual Studio 2015\Projects\LightDriverTest\LightLibrary\obj\Release\LightLibrary.csproj.GenerateResource.Cache
+C:\Users\n-yuasa\Documents\Visual Studio 2015\Projects\LightDriverTest\LightLibrary\obj\Release\LightLibrary.dll
+C:\Users\n-yuasa\Documents\Visual Studio 2015\Projects\LightDriverTest\LightLibrary\obj\Release\LightLibrary.pdb

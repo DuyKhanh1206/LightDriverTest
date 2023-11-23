@@ -1,0 +1,24 @@
+<supply1>
+	LightClass="IMAC600";←このクラス名でインスタンス
+	SettingFileName="SupplySettingt1.xml";←インスタンスされたらこのファイルで設定を読み込む
+<supply1>
+<supply2>
+	LightClass="IMAC600";
+	SettingFileName="SupplySettingt2.xml";
+<supply2>
+
+----SupplySetting1.xml
+<CommonSetting>
+	TCPIPSettingFilePath="";←TCPだったり、DOだったりでここが変化する。
+<Light1>
+	Name="Light1";
+	MaxValue="255";
+	MinValue="0";
+</Light1>
+<Light2>
+	Name="Light1";←同じ名前でも許可
+	MaxValue="255";
+	MinValue="0";
+</Light2>
+
+

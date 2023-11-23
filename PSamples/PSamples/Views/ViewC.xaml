@@ -1,0 +1,34 @@
+﻿<UserControl x:Class="PSamples.Views.ViewC"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:i="http://schemas.microsoft.com/xaml/behaviors"
+             xmlns:prism="http://prismlibrary.com/"             
+             prism:ViewModelLocator.AutoWireViewModel="True">
+    <!--xmlns:i="http://schemas.microsoft.com/xaml/behaviors"  はComboBoxの「i」用のために追記 コードビハインドではなく、
+    Viewmodelに実行を書くようにカスタム？？（SelectionChangedを直にかくとコードビハンドにコードを書くようになってしまうため。）-->
+    <Grid>
+        <StackPanel>
+            <Label Content="View C画面" FontSize="50"/>
+            <ListBox Height="100" Width="200" Margin="10" ItemsSource="{Binding MyListBox}"/>
+            <ComboBox ItemsSource="{Binding Areas}" Width="200" SelectedValuePath="Value" DisplayMemberPath="DisplayValue" SelectedItem="{Binding SelectedArea,Mode=TwoWay}">
+                <!--データバインドしている方の選択をstringで表記   TwoWayはデフォルト。省略可。読み取り専用の場合はOneWay-->
+                <i:Interaction.Triggers>
+                    <i:EventTrigger EventName="SelectionChanged">
+                        <prism:InvokeCommandAction Command="{Binding AreaSelectionChanged}"
+                                                   TriggerParameterPath="AddedItems"/>
+                        <!--一度コードビハンドにコード生成し、そこで貰いたい情報（ここでいうと「AddedItems」）を探して記載する。 -->
+                    </i:EventTrigger>
+                </i:Interaction.Triggers>
+            </ComboBox>
+            <Label Content="{Binding SelectedAreaLabel}"/>
+
+
+
+
+
+        </StackPanel>
+        
+        
+
+    </Grid>
+</UserControl>

@@ -1,0 +1,7 @@
+C:\Users\n-yuasa\Documents\Visual Studio 2015\Projects\LightDriverTest\DriverLibrary\bin\Release\DriverLibrary.dll
+C:\Users\n-yuasa\Documents\Visual Studio 2015\Projects\LightDriverTest\DriverLibrary\bin\Release\DriverLibrary.pdb
+C:\Users\n-yuasa\Documents\Visual Studio 2015\Projects\LightDriverTest\DriverLibrary\bin\Release\CommonLibrary.dll
+C:\Users\n-yuasa\Documents\Visual Studio 2015\Projects\LightDriverTest\DriverLibrary\bin\Release\CommonLibrary.pdb
+C:\Users\n-yuasa\Documents\Visual Studio 2015\Projects\LightDriverTest\DriverLibrary\obj\Release\DriverLibrary.csprojResolveAssemblyReference.cache
+C:\Users\n-yuasa\Documents\Visual Studio 2015\Projects\LightDriverTest\DriverLibrary\obj\Release\DriverLibrary.dll
+C:\Users\n-yuasa\Documents\Visual Studio 2015\Projects\LightDriverTest\DriverLibrary\obj\Release\DriverLibrary.pdb
